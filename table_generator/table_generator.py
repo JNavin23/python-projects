@@ -15,3 +15,10 @@ while True:
 print("\n")
 
 table_genrator(num)
+
+
+
+
+
+
+
